@@ -13,6 +13,6 @@ python api.py
 
 
 # Params
-email: required
-password: required
-2fa_token: optional
+email: required <br>
+password: required <br>
+2fa_token: optional <br>
